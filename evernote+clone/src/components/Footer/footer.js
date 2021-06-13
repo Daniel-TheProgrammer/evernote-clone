@@ -55,8 +55,8 @@ const Footer = () => {
 
         <Divider />
         <CopyrightAndCompanyInfoRow>
-          <CopyrightNotice>&copy; Copyright {Year}, TrackMyLost</CopyrightNotice>
-          <DevInfo href="https://github.com/nsedrickm" target="_blank">Developed by Daniel TheProgrammer</DevInfo>
+          <CopyrightNotice>&copy; Copyright {Year}, Evernote Clone</CopyrightNotice>
+          <DevInfo href="https://github.com/Daniel-TheProgrammer" target="_blank">Developed by Daniel TheProgrammer</DevInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>
     </Container>
