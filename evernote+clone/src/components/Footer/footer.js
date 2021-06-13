@@ -41,13 +41,13 @@ const Footer = () => {
             <LogoImg src={logo} />
           </LogoContainer>
           <SocialLinksContainer>
-            <SocialLink href="">
+            <SocialLink href="https://github.com/Daniel-TheProgrammer">
               <FacebookIcon />
             </SocialLink>
-            <SocialLink href="">
+            <SocialLink href="https://github.com/Daniel-TheProgrammer">
               <TwitterIcon />
             </SocialLink>
-            <SocialLink href="">
+            <SocialLink href="https://github.com/Daniel-TheProgrammer">
               <YoutubeIcon />
             </SocialLink>
           </SocialLinksContainer>
