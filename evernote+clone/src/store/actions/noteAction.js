@@ -1,3 +1,4 @@
+
 export const addNote = (note) => {
     console.log(note)
     return (dispatch, getState, { getFirestore }) => {
