@@ -6,6 +6,7 @@ import logo from "images/logo.png";
 import { FiFacebook as FacebookIcon, FiTwitter as TwitterIcon, FiYoutube as YoutubeIcon } from "react-icons/fi";
 
 
+
 const Container = tw(ContainerBase)`bg-primary-500 text-gray-100 -mx-8 -mb-8`
 const Content = tw.div`max-w-screen-xl mx-auto py-10`;
 
